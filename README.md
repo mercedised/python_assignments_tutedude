@@ -10,6 +10,7 @@ o	Addition, Subtraction, Multiplication, Division
 3.  Displays the results of each operation on the screen.
 
 Code for Task 1 is  :
+
 x = float(input("Enter 1st number :"))
 y = float(input("Enter 2nd number :"))
 
